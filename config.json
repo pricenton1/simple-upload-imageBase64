@@ -1,0 +1,12 @@
+{
+    "database":{
+        "engine" :"mysql",
+        "user":"root",
+        "host":"127.0.0.1",
+        "port":"3306",
+        "pass":"Belong15",
+        "schema":"user_schema"
+    },
+    "host":"localhost",
+    "port":"8080"
+}
